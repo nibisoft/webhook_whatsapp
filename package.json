@@ -1,0 +1,16 @@
+{
+  "name": "webhook_whatsapp",
+  "version": "1.0.0",
+  "description": "Webhook para whatsapp",
+  "main": "app.js",
+  "repository": "https://github.com/nibisoft/webhook_whatsapp.git",
+  "author": "Nibi",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
